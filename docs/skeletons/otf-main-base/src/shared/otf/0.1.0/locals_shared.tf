@@ -1,0 +1,6 @@
+#
+# Shared Locals
+#
+
+locals {
+}
